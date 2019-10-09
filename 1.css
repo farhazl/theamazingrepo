@@ -1,7 +1,23 @@
+html {
+  margin-left: 5%;
+  margin-right: 5%;
+  background-color: #ddd;
+}
+
+.body {
+  background-color: #eee;
+  padding: 10px;
+}
+
+hr{
+  border: 4px dashed cornflowerblue;
+  margin-bottom: 0px;
+}
+
 h1 {
   text-align: center;
   text-decoration: underline;
-  font-size: 35;
+  font-size: 60px;
   color: #21A6AB;
   font-family: 'Press Start 2P';
 }
@@ -28,4 +44,25 @@ h2 {
   text-align: center;
   background: white;
   font-size: 20;
+}
+
+#foot{
+    border: 4px solid cornflowerblue;
+}
+
+footer{
+  margin-top: 60px;
+}
+
+
+img {
+  border: 4px solid cornflowerblue;
+}
+
+#nav {
+  font-size: 20px;
+}
+
+#nav:hover{
+  color: yellow;
 }
