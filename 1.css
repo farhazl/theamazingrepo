@@ -1,0 +1,31 @@
+h1 {
+  text-align: center;
+  text-decoration: underline;
+  font-size: 35;
+  color: #21A6AB;
+  font-family: 'Press Start 2P';
+}
+
+h2 {
+  text-align: center;
+  text-decoration: underline;
+  font-family: Gloria Hallelujah;
+}
+
+#Farhaz {
+  background-color: cornflowerblue;
+  border: solid;
+  font-family: Patrick Hand;
+}
+
+#Emma {
+  background-color: #4DD24D;
+  border: solid;
+  font-family: Patrick Hand;
+}
+
+#Home {
+  text-align: center;
+  background: white;
+  font-size: 20;
+}
